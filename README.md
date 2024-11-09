@@ -2,7 +2,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
- 
+ <img src="https://github.com/jinyoung5497/jinyoung5497/blob/main/Jinyoung-s-09-11-2024.gif" width="400" height="300"/>
 </div>
 
 <!--내용 부분-->
