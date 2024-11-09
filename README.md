@@ -5,6 +5,7 @@
  <img src="https://github.com/jinyoung5497/jinyoung5497/blob/main/Jinyoung-s-09-11-2024.gif" width="400" height="300"/>
 </div>
 
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -47,3 +48,12 @@
   </a>
 </div>
  -->
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jinyoung5497?pet-id=642980045190577892"
+    width="600"
+    height="120"
+  />
+</a>
